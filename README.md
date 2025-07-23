@@ -4,12 +4,12 @@
 
 Un outil simple en Python avec interface graphique pour convertir une configuration VLAN + LAG de switch HP/Aruba (style ProCurve) en configuration Cisco équivalente.
 
-> 🧠 Pensé pour les ingénieurs réseau qui passent leur temps à traduire des configs HP mal documentées en Cisco.
+> 🧠 Pensé pour les nuls comme moi :D 
 
 ## 📸 Capture d'écran
 
-<img width="1498" height="1390" alt="image" src="https://github.com/user-attachments/assets/ebae7692-c3d1-45ce-aec4-61a8cfbf3b5e" />
-<img width="1512" height="1392" alt="image" src="https://github.com/user-attachments/assets/edc4353a-7c6d-4efb-803a-f16c783bd5d4" />
+<img width="1652" height="1452" alt="image" src="https://github.com/user-attachments/assets/4400cd82-8b5f-4d68-87f6-84f6aaa15c83" />
+
 
 
 
@@ -30,6 +30,7 @@ Un outil simple en Python avec interface graphique pour convertir une configurat
 
 - Python 3.x  
 - Aucun module externe requis (Tkinter est inclus avec Python)
+- pyperclip
 
 ### 2. Lancer l'application
 
